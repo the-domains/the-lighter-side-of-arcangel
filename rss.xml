@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Lighter Side of Arcangel]]></title>
-        <description><![CDATA[The Lighter Side of Arcangel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Coo, airy images from the arcangel collection]]></title>
+        <description><![CDATA[Coo, airy images from the arcangel collection]]></description>
+        <link>https://thegrid.ai/the-lighter-side-of-arcangel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 11:54:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 12:27:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-lighter-side-of-arcangel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Lighter side of Arcangel]]></title>
-            <description><![CDATA[<article><h1>The Lighter side of Arcangel</h1><p>Cool Images by Arcangel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/812d9ecff4cbf0233a67d5cae3e77c97f9a263e1.jpg"></article>]]></description>
-            <link>undefinedthe-lighter-side-of-arcangel/index.html</link>
+            <description><![CDATA[<article><h1>The Lighter side of Arcangel</h1><p>Cool Images by Arcangel</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf48715c5bfae5a489ef8e29f048c6aeba6028d0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-lighter-side-of-arcangel/the-lighter-side-of-arcangel/index.html</link>
             <guid isPermaLink="false">ad10f877-5502-4499-8f2a-7ad950a36d46</guid>
-            <pubDate>Fri, 08 Jan 2016 11:54:23 GMT</pubDate>
+            <pubDate>Fri, 08 Jan 2016 12:27:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
